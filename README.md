@@ -30,7 +30,3 @@ Here are some ideas to get you started:
 </div>
 
 
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/SouravGoyal8?theme=unicorn&font=Ruluko)
-
-
-
