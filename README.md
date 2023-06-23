@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## Connect with me :
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sourav20341&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
+<p>
 <a href="https://www.hackerrank.com/sourav20341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav20341" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sourav_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sourav_goyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/souravgoyal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souravgoyal8" height="30" width="40" /></a>
