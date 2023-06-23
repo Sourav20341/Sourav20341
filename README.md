@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 # Sourav Goyal
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## @Sourav20341
+
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sourav20341&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
 <div align="left">
-  <a href="mailto:ashwin20288@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white& PAT_1" /> </a>
+  <a href="mailto:sourav20341@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white& PAT_1" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sourav-goyal-753a66231/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
