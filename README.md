@@ -58,4 +58,3 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AshwinSheoran02/)
 
-![](https://komarev.com/ghpvc/?username=Sourav20341&style=flat-square)
