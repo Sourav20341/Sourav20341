@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sourav20341&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
