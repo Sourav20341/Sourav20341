@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Sourav Goyal
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SouravGoyal8?theme=unicorn&font=Ruluko)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/SouravGoyal8?theme=unicorn&font=Ruluko)
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sourav20341&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
