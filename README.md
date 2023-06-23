@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sourav20341&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
+<div align="left">
+  <a href="mailto:ashwin20288@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white& PAT_1" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sourav-goyal-753a66231/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+</div>
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SouravGoyal8?theme=unicorn&font=Ruluko)
 
 
