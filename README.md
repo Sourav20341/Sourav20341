@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sourav20341&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourav20341/)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
